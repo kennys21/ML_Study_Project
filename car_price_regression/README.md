@@ -15,6 +15,6 @@ The goal is to understand how a single feature correlates with car price.
 - Evaluation using R² score and MAE
 
 ## Results
-The model achieves an R² of **(insert your R²)** showing a (strong/moderate/weak) linear relationship between the chosen feature and price.
+The model achieves an R² of **0.804** showing a (strong/moderate/weak) linear relationship between the chosen feature and price.
 
 ## Dependencies
